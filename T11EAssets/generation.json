@@ -1,0 +1,62 @@
+{
+  "objects": 7,
+  "materials": 9,
+  "meshes": {
+    "SM_Scanner_Metal": {
+      "triangles": 392,
+      "bounds_m": [
+        0.4,
+        0.156,
+        0.3
+      ]
+    },
+    "SM_Scanner_Bio": {
+      "triangles": 464,
+      "bounds_m": [
+        0.4875,
+        0.1535,
+        0.2825
+      ]
+    },
+    "SM_Scanner_Matter": {
+      "triangles": 452,
+      "bounds_m": [
+        0.49,
+        0.161,
+        0.2825
+      ]
+    },
+    "SM_Gun_Placeholder": {
+      "triangles": 292,
+      "bounds_m": [
+        0.4125,
+        0.12,
+        0.319
+      ]
+    },
+    "SM_Crate_MetalBrace": {
+      "triangles": 288,
+      "bounds_m": [
+        0.975,
+        0.975,
+        0.25
+      ]
+    },
+    "SM_Crate_WarningMarker": {
+      "triangles": 160,
+      "bounds_m": [
+        0.0265,
+        0.28,
+        0.18
+      ]
+    },
+    "SM_Crate_WearPatch": {
+      "triangles": 220,
+      "bounds_m": [
+        0.0205,
+        0.48,
+        0.24
+      ]
+    }
+  }
+}

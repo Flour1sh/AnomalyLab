@@ -1,0 +1,40 @@
+# Unreal-generated files (also applies to project plugins).
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Packaged game output; keep source-controlled Build/ resources if added later.
+/Builds/
+
+# Local IDE and generated project files.
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.code-workspace
+
+# Python caches and local environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets and machine-specific tooling state.
+.env
+.env.*
+!.env.example
+.ual-build
+.DS_Store
+Thumbs.db
+
+# Blender autosaves; keep the editable .blend sources.
+*.blend1
+*.blend2

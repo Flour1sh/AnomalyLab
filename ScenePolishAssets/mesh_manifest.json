@@ -1,0 +1,410 @@
+{
+  "status": "PASS",
+  "style": "Flat shading; single-segment bevel; 8-sided cylinders; existing T11E palette; metres; local floor-centred origin",
+  "palette": {
+    "DarkMetal": [
+      [
+        0.1,
+        0.12,
+        0.13
+      ],
+      0.5,
+      0.82,
+      0
+    ],
+    "Iron": [
+      [
+        0.28,
+        0.31,
+        0.3
+      ],
+      0.4,
+      0.76,
+      0
+    ],
+    "DirtyGreen": [
+      [
+        0.23,
+        0.32,
+        0.26
+      ],
+      0.2,
+      0.86,
+      0
+    ],
+    "Charcoal": [
+      [
+        0.035,
+        0.045,
+        0.05
+      ],
+      0.1,
+      0.9,
+      0
+    ],
+    "WarningYellow": [
+      [
+        0.84,
+        0.57,
+        0.05
+      ],
+      0.05,
+      0.75,
+      0
+    ],
+    "Copper": [
+      [
+        0.48,
+        0.3,
+        0.13
+      ],
+      0.45,
+      0.78,
+      0
+    ],
+    "ScreenGreen": [
+      [
+        0.06,
+        0.54,
+        0.27
+      ],
+      0,
+      0.5,
+      1.4
+    ],
+    "ScreenBlue": [
+      [
+        0.1,
+        0.42,
+        0.58
+      ],
+      0,
+      0.5,
+      1.4
+    ],
+    "ColdLight": [
+      [
+        0.55,
+        0.75,
+        0.9
+      ],
+      0,
+      0.4,
+      2
+    ],
+    "OffWhite": [
+      [
+        0.54,
+        0.58,
+        0.53
+      ],
+      0.1,
+      0.85,
+      0
+    ]
+  },
+  "meshes": {
+    "SM_SP_WallCassette": {
+      "triangles": 588,
+      "dimensions_m": [
+        2.0,
+        0.21250000223517418,
+        2.200000047683716
+      ],
+      "bounds_min_m": [
+        -1.0,
+        -0.1525000035762787,
+        0.0
+      ],
+      "bounds_max_m": [
+        1.0,
+        0.05999999865889549,
+        2.200000047683716
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_DirtyGreen",
+        "M_SP_Iron"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_WallCassette.fbx"
+    },
+    "SM_SP_PortalFrame": {
+      "triangles": 352,
+      "dimensions_m": [
+        4.1600000858306885,
+        0.36499999463558197,
+        3.759999990463257
+      ],
+      "bounds_min_m": [
+        -2.080000162124634,
+        -0.20499999821186066,
+        0.0
+      ],
+      "bounds_max_m": [
+        2.0799999237060547,
+        0.1599999964237213,
+        3.759999990463257
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_OffWhite",
+        "M_SP_WarningYellow",
+        "M_SP_ColdLight"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_PortalFrame.fbx"
+    },
+    "SM_SP_ServicePipes": {
+      "triangles": 824,
+      "dimensions_m": [
+        3.0,
+        0.4999999850988388,
+        0.2769385203719139
+      ],
+      "bounds_min_m": [
+        -1.5,
+        -0.25,
+        0.01806146651506424
+      ],
+      "bounds_max_m": [
+        1.5,
+        0.2499999850988388,
+        0.29499998688697815
+      ],
+      "materials": [
+        "M_SP_Iron",
+        "M_SP_DarkMetal",
+        "M_SP_Copper"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_ServicePipes.fbx"
+    },
+    "SM_SP_CeilingLight": {
+      "triangles": 264,
+      "dimensions_m": [
+        1.649999976158142,
+        0.41999998688697815,
+        0.26499999314546585
+      ],
+      "bounds_min_m": [
+        -0.824999988079071,
+        -0.20999999344348907,
+        -0.02499999850988388
+      ],
+      "bounds_max_m": [
+        0.824999988079071,
+        0.20999999344348907,
+        0.23999999463558197
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_ColdLight",
+        "M_SP_Iron"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_CeilingLight.fbx"
+    },
+    "SM_SP_ResearchBench": {
+      "triangles": 800,
+      "dimensions_m": [
+        2.1999999284744263,
+        0.8325000107288361,
+        1.5199999809265137
+      ],
+      "bounds_min_m": [
+        -1.100000023841858,
+        -0.42250001430511475,
+        0.0
+      ],
+      "bounds_max_m": [
+        1.0999999046325684,
+        0.4099999964237213,
+        1.5199999809265137
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_OffWhite",
+        "M_SP_DirtyGreen",
+        "M_SP_Iron",
+        "M_SP_Charcoal",
+        "M_SP_ScreenBlue"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_ResearchBench.fbx"
+    },
+    "SM_SP_SpecimenRack": {
+      "triangles": 2360,
+      "dimensions_m": [
+        1.4399999976158142,
+        0.7299999594688416,
+        2.240000009536743
+      ],
+      "bounds_min_m": [
+        -0.7200000286102295,
+        -0.32499998807907104,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.7199999690055847,
+        0.4049999713897705,
+        2.240000009536743
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_DirtyGreen",
+        "M_SP_Iron",
+        "M_SP_OffWhite"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_SpecimenRack.fbx"
+    },
+    "SM_SP_PowerCabinet": {
+      "triangles": 884,
+      "dimensions_m": [
+        1.600000023841858,
+        0.9474999904632568,
+        2.4000000953674316
+      ],
+      "bounds_min_m": [
+        -0.800000011920929,
+        -0.5724999904632568,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.800000011920929,
+        0.375,
+        2.4000000953674316
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_DirtyGreen",
+        "M_SP_Iron",
+        "M_SP_Charcoal",
+        "M_SP_ScreenGreen",
+        "M_SP_WarningYellow"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_PowerCabinet.fbx"
+    },
+    "SM_SP_ContainmentPod": {
+      "triangles": 620,
+      "dimensions_m": [
+        1.399999976158142,
+        1.0374999940395355,
+        2.299999952316284
+      ],
+      "bounds_min_m": [
+        -0.699999988079071,
+        -0.637499988079071,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.699999988079071,
+        0.4000000059604645,
+        2.299999952316284
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_OffWhite",
+        "M_SP_Charcoal",
+        "M_SP_ScreenBlue",
+        "M_SP_Iron",
+        "M_SP_WarningYellow",
+        "M_SP_ScreenGreen"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_ContainmentPod.fbx"
+    },
+    "SM_SP_StorageCase": {
+      "triangles": 264,
+      "dimensions_m": [
+        0.8399999737739563,
+        0.7524999976158142,
+        0.7400000095367432
+      ],
+      "bounds_min_m": [
+        -0.41999998688697815,
+        -0.4074999988079071,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.41999998688697815,
+        0.3449999988079071,
+        0.7400000095367432
+      ],
+      "materials": [
+        "M_SP_DirtyGreen",
+        "M_SP_DarkMetal",
+        "M_SP_Iron",
+        "M_SP_OffWhite",
+        "M_SP_Charcoal"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_StorageCase.fbx"
+    },
+    "SM_SP_WallVent": {
+      "triangles": 264,
+      "dimensions_m": [
+        1.2000000476837158,
+        0.23112912476062775,
+        0.800000011920929
+      ],
+      "bounds_min_m": [
+        -0.6000000238418579,
+        -0.16612912714481354,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.6000000238418579,
+        0.06499999761581421,
+        0.800000011920929
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_Iron"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_WallVent.fbx"
+    },
+    "SM_SP_ReturnTerminal": {
+      "triangles": 396,
+      "dimensions_m": [
+        0.800000011920929,
+        0.7300000190734863,
+        1.600000023841858
+      ],
+      "bounds_min_m": [
+        -0.4000000059604645,
+        -0.4300000071525574,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.4000000059604645,
+        0.30000001192092896,
+        1.600000023841858
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_DirtyGreen",
+        "M_SP_Charcoal",
+        "M_SP_ScreenGreen",
+        "M_SP_Iron"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_ReturnTerminal.fbx"
+    },
+    "SM_SP_CeilingBeam": {
+      "triangles": 132,
+      "dimensions_m": [
+        4.099999904632568,
+        0.41999998688697815,
+        0.3400000035762787
+      ],
+      "bounds_min_m": [
+        -2.049999952316284,
+        -0.20999999344348907,
+        0.0
+      ],
+      "bounds_max_m": [
+        2.049999952316284,
+        0.20999999344348907,
+        0.3400000035762787
+      ],
+      "materials": [
+        "M_SP_DarkMetal",
+        "M_SP_Iron"
+      ],
+      "fbx": "F:\\AnomalyLab\\\u6211\u7684\u9879\u76ee3\\ScenePolishAssets\\fbx\\SM_SP_CeilingBeam.fbx"
+    }
+  }
+}
